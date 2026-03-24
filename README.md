@@ -23,14 +23,6 @@ Ho lavorato su **EcWeb**, piattaforma SaaS enterprise per il monitoraggio energe
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faragrazio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faragrazio&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ### 📫 Contatti
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Graziano_Faraone-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/graziano-faraone-26a071218)
