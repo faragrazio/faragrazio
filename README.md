@@ -15,12 +15,11 @@ Ho lavorato su **EcWeb**, piattaforma SaaS enterprise per il monitoraggio energe
 
 ---
 
-### 📌 Progetti in evidenza
+### 📌 Progetto in evidenza
 
 | Progetto | Descrizione | Stack |
 |----------|-------------|-------|
-| [**JobTracker**](https://github.com/faragrazio/job-tracker) | Dashboard per tracking candidature — Clean Architecture, Repository Pattern, UseCases, Highcharts | C#, ASP.NET MVC, .NET 8, MySQL, Bootstrap 5 |
-| [**GestionaleOsteopata**](https://github.com/faragrazio/GestionaleOsteopata) | Landing page e gestionale per studio osteopatico con calendario appuntamenti | TypeScript, Next.js |
+| [**JobTracker**](https://github.com/faragrazio/job-tracker) | Dashboard per tracking candidature — Clean Architecture, Repository Pattern, UseCases, Highcharts, AJAX | C#, ASP.NET MVC, .NET 8, MySQL, Bootstrap 5 |
 
 ---
 
